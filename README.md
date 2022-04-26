@@ -1,1 +1,1 @@
-# StyxGames Pong games
+# StyxGames Pong game
